@@ -1,0 +1,363 @@
+canonical_identifier: bkk:krp/KR2p0041/bkk/v1/markers/1
+seq: 1
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 0, content: '', id: KR2p0041_tls_001-bkkxmlele1, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.3 (STRIPS 2, 5) JI XUSHENG 3: 177'}}
+  - {type: page-break, offset: 0, content: '', id: KR2p0041_tls_001-1a}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR2p0041_tls_001-1a.1}
+  - {type: punctuation, offset: 0, content: '[', id: KR2p0041_tls_001-bkkpn1}
+  - {type: punctuation, offset: 0, content: ']', id: KR2p0041_tls_001-bkkpn2}
+  - {type: punctuation, offset: 3, content: ',', id: KR2p0041_tls_001-bkkpn3}
+  - {type: 'tls:seg', offset: 3, content: '', id: KR2p0041_tls_001-1a.2}
+  - {type: punctuation, offset: 6, content: ',', id: KR2p0041_tls_001-bkkpn4}
+  - {type: punctuation, offset: 12, content: ',', id: KR2p0041_tls_001-bkkpn5}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR2p0041_tls_001-1a.3}
+  - {type: punctuation, offset: 16, content: ',', id: KR2p0041_tls_001-bkkpn6}
+  - {type: 'tls:seg', offset: 16, content: '', id: KR2p0041_tls_001-1a.4}
+  - {type: punctuation, offset: 19, content: ',', id: KR2p0041_tls_001-bkkpn7}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR2p0041_tls_001-1a.5}
+  - {type: punctuation, offset: 21, content: 」, id: KR2p0041_tls_001-bkkpn8}
+  - {type: xml-element, offset: 21, content: '', id: KR2p0041_tls_001-bkkxmlele2, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.3 (STRIPS 2, 5) JI XUSHENG 3: 177'}}
+  - {type: xml-element, offset: 21, content: '', id: KR2p0041_tls_001-bkkxmlele3, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.1 (STRIPS 1, 4, 26) JI XUSHENG 3: 176-177'}}
+  - {type: page-break, offset: 21, content: '', id: KR2p0041_tls_001-2a}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR2p0041_tls_001-2a.1}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR2p0041_tls_001-2a.2}
+  - {type: 'tls:seg', offset: 34, content: '', id: KR2p0041_tls_001-2a.3}
+  - {type: punctuation, offset: 35, content: ':', id: KR2p0041_tls_001-bkkpn9}
+  - {type: 'tls:seg', offset: 35, content: '', id: KR2p0041_tls_001-2a.4}
+  - {type: punctuation, offset: 37, content: '[', id: KR2p0041_tls_001-bkkpn10}
+  - {type: punctuation, offset: 37, content: …, id: KR2p0041_tls_001-bkkpn11}
+  - {type: punctuation, offset: 37, content: ']', id: KR2p0041_tls_001-bkkpn12}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR2p0041_tls_001-2a.5}
+  - {type: punctuation, offset: 46, content: ',', id: KR2p0041_tls_001-bkkpn13}
+  - {type: 'tls:seg', offset: 46, content: '', id: KR2p0041_tls_001-2a.6}
+  - {type: punctuation, offset: 50, content: ',', id: KR2p0041_tls_001-bkkpn14}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR2p0041_tls_001-2a.7}
+  - {type: punctuation, offset: 55, content: ',', id: KR2p0041_tls_001-bkkpn15}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR2p0041_tls_001-2a.8}
+  - {type: substitution, offset: 55, original: 愿, replacement: 願, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1429}}
+  - {type: punctuation, offset: 61, content: 」, id: KR2p0041_tls_001-bkkpn16}
+  - {type: xml-element, offset: 61, content: '', id: KR2p0041_tls_001-bkkxmlele4, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.1 (STRIPS 1, 4, 26) JI XUSHENG 3: 176-177'}}
+  - {type: xml-element, offset: 61, content: '', id: KR2p0041_tls_001-bkkxmlele5, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.2 (STRIPS 26-3) JI XUSHENG 3: 177'}}
+  - {type: page-break, offset: 61, content: '', id: KR2p0041_tls_001-3a}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR2p0041_tls_001-3a.1}
+  - {type: punctuation, offset: 64, content: ':', id: KR2p0041_tls_001-bkkpn17}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR2p0041_tls_001-3a.2}
+  - {type: punctuation, offset: 64, content: 「, id: KR2p0041_tls_001-bkkpn18}
+  - {type: punctuation, offset: 65, content: '[', id: KR2p0041_tls_001-bkkpn19}
+  - {type: punctuation, offset: 66, content: ']', id: KR2p0041_tls_001-bkkpn20}
+  - {type: punctuation, offset: 66, content: '[', id: KR2p0041_tls_001-bkkpn21}
+  - {type: punctuation, offset: 66, content: ']', id: KR2p0041_tls_001-bkkpn22}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR2p0041_tls_001-3a.3}
+  - {type: punctuation, offset: 66, content: '[', id: KR2p0041_tls_001-bkkpn23}
+  - {type: punctuation, offset: 67, content: ']', id: KR2p0041_tls_001-bkkpn24}
+  - {type: punctuation, offset: 74, content: ',', id: KR2p0041_tls_001-bkkpn25}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR2p0041_tls_001-3a.4}
+  - {type: punctuation, offset: 78, content: ',', id: KR2p0041_tls_001-bkkpn26}
+  - {type: 'tls:seg', offset: 78, content: '', id: KR2p0041_tls_001-3a.5}
+  - {type: punctuation, offset: 79, content: '[', id: KR2p0041_tls_001-bkkpn27}
+  - {type: punctuation, offset: 79, content: ']', id: KR2p0041_tls_001-bkkpn28}
+  - {type: xml-element, offset: 79, content: '', id: KR2p0041_tls_001-bkkxmlele6, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.2 (STRIPS 26-3) JI XUSHENG 3: 177'}}
+  - {type: xml-element, offset: 79, content: '', id: KR2p0041_tls_001-bkkxmlele7, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.4 (STRIPS 5, 7-8) JI XUSHENG 3: 177'}}
+  - {type: page-break, offset: 79, content: '', id: KR2p0041_tls_001-4a}
+  - {type: 'tls:seg', offset: 79, content: '', id: KR2p0041_tls_001-4a.1}
+  - {type: punctuation, offset: 82, content: ':', id: KR2p0041_tls_001-bkkpn29}
+  - {type: 'tls:seg', offset: 82, content: '', id: KR2p0041_tls_001-4a.2}
+  - {type: punctuation, offset: 82, content: 「, id: KR2p0041_tls_001-bkkpn30}
+  - {type: punctuation, offset: 88, content: '?', id: KR2p0041_tls_001-bkkpn31}
+  - {type: punctuation, offset: 88, content: 」, id: KR2p0041_tls_001-bkkpn32}
+  - {type: 'tls:seg', offset: 88, content: '', id: KR2p0041_tls_001-4a.3}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR2p0041_tls_001-4a.4}
+  - {type: punctuation, offset: 92, content: ',', id: KR2p0041_tls_001-bkkpn33}
+  - {type: 'tls:seg', offset: 92, content: '', id: KR2p0041_tls_001-4a.5}
+  - {type: punctuation, offset: 95, content: ',', id: KR2p0041_tls_001-bkkpn34}
+  - {type: 'tls:seg', offset: 95, content: '', id: KR2p0041_tls_001-4a.6}
+  - {type: punctuation, offset: 98, content: ',', id: KR2p0041_tls_001-bkkpn35}
+  - {type: 'tls:seg', offset: 98, content: '', id: KR2p0041_tls_001-4a.7}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR2p0041_tls_001-4a.8}
+  - {type: 'tls:seg', offset: 102, content: '', id: KR2p0041_tls_001-4a.9}
+  - {type: punctuation, offset: 102, content: '[', id: KR2p0041_tls_001-bkkpn36}
+  - {type: punctuation, offset: 102, content: ']', id: KR2p0041_tls_001-bkkpn37}
+  - {type: punctuation, offset: 103, content: ',', id: KR2p0041_tls_001-bkkpn38}
+  - {type: punctuation, offset: 107, content: 」, id: KR2p0041_tls_001-bkkpn39}
+  - {type: xml-element, offset: 107, content: '', id: KR2p0041_tls_001-bkkxmlele8, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.4 (STRIPS 5, 7-8) JI XUSHENG 3: 177'}}
+  - {type: xml-element, offset: 107, content: '', id: KR2p0041_tls_001-bkkxmlele9, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.5 (STRIPS 8, 14, 9)JI XUSHENG 3: 177'}}
+  - {type: page-break, offset: 107, content: '', id: KR2p0041_tls_001-5a}
+  - {type: 'tls:seg', offset: 107, content: '', id: KR2p0041_tls_001-5a.1}
+  - {type: punctuation, offset: 110, content: ':', id: KR2p0041_tls_001-bkkpn40}
+  - {type: 'tls:seg', offset: 110, content: '', id: KR2p0041_tls_001-5a.2}
+  - {type: punctuation, offset: 110, content: 「, id: KR2p0041_tls_001-bkkpn41}
+  - {type: 'tls:seg', offset: 116, content: '', id: KR2p0041_tls_001-5a.3}
+  - {type: punctuation, offset: 118, content: ',', id: KR2p0041_tls_001-bkkpn42}
+  - {type: 'tls:seg', offset: 118, content: '', id: KR2p0041_tls_001-5a.4}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR2p0041_tls_001-5a.5}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR2p0041_tls_001-5a.6}
+  - {type: punctuation, offset: 130, content: '?', id: KR2p0041_tls_001-bkkpn43}
+  - {type: punctuation, offset: 130, content: 」, id: KR2p0041_tls_001-bkkpn44}
+  - {type: 'tls:seg', offset: 130, content: '', id: KR2p0041_tls_001-5a.7}
+  - {type: punctuation, offset: 133, content: ':', id: KR2p0041_tls_001-bkkpn45}
+  - {type: 'tls:seg', offset: 133, content: '', id: KR2p0041_tls_001-5a.8}
+  - {type: punctuation, offset: 133, content: 「, id: KR2p0041_tls_001-bkkpn46}
+  - {type: 'tls:seg', offset: 137, content: '', id: KR2p0041_tls_001-5a.9}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR2p0041_tls_001-5a.10}
+  - {type: punctuation, offset: 144, content: ',', id: KR2p0041_tls_001-bkkpn47}
+  - {type: 'tls:seg', offset: 144, content: '', id: KR2p0041_tls_001-5a.11}
+  - {type: punctuation, offset: 146, content: (, id: KR2p0041_tls_001-bkkpn48}
+  - {type: punctuation, offset: 146, content: '?', id: KR2p0041_tls_001-bkkpn49}
+  - {type: punctuation, offset: 146, content: ), id: KR2p0041_tls_001-bkkpn50}
+  - {type: punctuation, offset: 146, content: (, id: KR2p0041_tls_001-bkkpn51}
+  - {type: punctuation, offset: 146, content: ), id: KR2p0041_tls_001-bkkpn52}
+  - {type: punctuation, offset: 148, content: ',', id: KR2p0041_tls_001-bkkpn53}
+  - {type: 'tls:seg', offset: 148, content: '', id: KR2p0041_tls_001-5a.12}
+  - {type: punctuation, offset: 157, content: 」, id: KR2p0041_tls_001-bkkpn54}
+  - {type: xml-element, offset: 157, content: '', id: KR2p0041_tls_001-bkkxmlele10, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.5 (STRIPS 8, 14, 9)JI XUSHENG 3: 177'}}
+  - {type: xml-element, offset: 157, content: '', id: KR2p0041_tls_001-bkkxmlele11, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.6 (STRIPS 9-10) JI XUSHENG 3: 177'}}
+  - {type: page-break, offset: 157, content: '', id: KR2p0041_tls_001-6a}
+  - {type: 'tls:seg', offset: 157, content: '', id: KR2p0041_tls_001-6a.1}
+  - {type: punctuation, offset: 160, content: ':', id: KR2p0041_tls_001-bkkpn55}
+  - {type: 'tls:seg', offset: 160, content: '', id: KR2p0041_tls_001-6a.2}
+  - {type: punctuation, offset: 160, content: 「, id: KR2p0041_tls_001-bkkpn56}
+  - {type: punctuation, offset: 164, content: ',', id: KR2p0041_tls_001-bkkpn57}
+  - {type: 'tls:seg', offset: 164, content: '', id: KR2p0041_tls_001-6a.3}
+  - {type: punctuation, offset: 168, content: ',', id: KR2p0041_tls_001-bkkpn58}
+  - {type: 'tls:seg', offset: 168, content: '', id: KR2p0041_tls_001-6a.4}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR2p0041_tls_001-6a.5}
+  - {type: punctuation, offset: 176, content: (, id: KR2p0041_tls_001-bkkpn59}
+  - {type: punctuation, offset: 176, content: ), id: KR2p0041_tls_001-bkkpn60}
+  - {type: punctuation, offset: 179, content: '?', id: KR2p0041_tls_001-bkkpn61}
+  - {type: punctuation, offset: 179, content: 」, id: KR2p0041_tls_001-bkkpn62}
+  - {type: 'tls:seg', offset: 179, content: '', id: KR2p0041_tls_001-6a.6}
+  - {type: punctuation, offset: 181, content: ':', id: KR2p0041_tls_001-bkkpn63}
+  - {type: 'tls:seg', offset: 181, content: '', id: KR2p0041_tls_001-6a.7}
+  - {type: punctuation, offset: 181, content: 「, id: KR2p0041_tls_001-bkkpn64}
+  - {type: 'tls:seg', offset: 188, content: '', id: KR2p0041_tls_001-6a.8}
+  - {type: punctuation, offset: 192, content: ',', id: KR2p0041_tls_001-bkkpn65}
+  - {type: 'tls:seg', offset: 192, content: '', id: KR2p0041_tls_001-6a.9}
+  - {type: punctuation, offset: 196, content: ',', id: KR2p0041_tls_001-bkkpn66}
+  - {type: 'tls:seg', offset: 196, content: '', id: KR2p0041_tls_001-6a.10}
+  - {type: punctuation, offset: 201, content: 」, id: KR2p0041_tls_001-bkkpn67}
+  - {type: xml-element, offset: 201, content: '', id: KR2p0041_tls_001-bkkxmlele12, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.6 (STRIPS 9-10) JI XUSHENG 3: 177'}}
+  - {type: xml-element, offset: 201, content: '', id: KR2p0041_tls_001-bkkxmlele13, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.7 (STRIPS 10, 28, 19)JI XUSHENG 3: 177'}}
+  - {type: page-break, offset: 201, content: '', id: KR2p0041_tls_001-7a}
+  - {type: 'tls:seg', offset: 201, content: '', id: KR2p0041_tls_001-7a.1}
+  - {type: punctuation, offset: 204, content: ':', id: KR2p0041_tls_001-bkkpn68}
+  - {type: 'tls:seg', offset: 204, content: '', id: KR2p0041_tls_001-7a.2}
+  - {type: punctuation, offset: 204, content: 「, id: KR2p0041_tls_001-bkkpn69}
+  - {type: punctuation, offset: 208, content: ',', id: KR2p0041_tls_001-bkkpn70}
+  - {type: 'tls:seg', offset: 208, content: '', id: KR2p0041_tls_001-7a.3}
+  - {type: punctuation, offset: 212, content: '?', id: KR2p0041_tls_001-bkkpn71}
+  - {type: 'tls:seg', offset: 212, content: '', id: KR2p0041_tls_001-7a.4}
+  - {type: punctuation, offset: 215, content: '[', id: KR2p0041_tls_001-bkkpn72}
+  - {type: punctuation, offset: 215, content: '?', id: KR2p0041_tls_001-bkkpn73}
+  - {type: punctuation, offset: 215, content: ']', id: KR2p0041_tls_001-bkkpn74}
+  - {type: 'tls:seg', offset: 215, content: '', id: KR2p0041_tls_001-7a.5}
+  - {type: punctuation, offset: 218, content: ',', id: KR2p0041_tls_001-bkkpn75}
+  - {type: 'tls:seg', offset: 218, content: '', id: KR2p0041_tls_001-7a.6}
+  - {type: punctuation, offset: 221, content: ',', id: KR2p0041_tls_001-bkkpn76}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR2p0041_tls_001-7a.7}
+  - {type: punctuation, offset: 227, content: ',', id: KR2p0041_tls_001-bkkpn77}
+  - {type: 'tls:seg', offset: 227, content: '', id: KR2p0041_tls_001-7a.8}
+  - {type: punctuation, offset: 232, content: ',', id: KR2p0041_tls_001-bkkpn78}
+  - {type: 'tls:seg', offset: 232, content: '', id: KR2p0041_tls_001-7a.9}
+  - {type: punctuation, offset: 234, content: '[', id: KR2p0041_tls_001-bkkpn79}
+  - {type: punctuation, offset: 234, content: ']', id: KR2p0041_tls_001-bkkpn80}
+  - {type: xml-element, offset: 234, content: '', id: KR2p0041_tls_001-bkkxmlele14, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.7 (STRIPS 10, 28, 19)JI XUSHENG 3: 177'}}
+  - {type: xml-element, offset: 234, content: '', id: KR2p0041_tls_001-bkkxmlele15, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.8 (STRIPS 27, 15, 18) JI XUSHENG 3: 178'}}
+  - {type: page-break, offset: 234, content: '', id: KR2p0041_tls_001-8a}
+  - {type: 'tls:seg', offset: 234, content: '', id: KR2p0041_tls_001-8a.1}
+  - {type: punctuation, offset: 237, content: ':', id: KR2p0041_tls_001-bkkpn81}
+  - {type: 'tls:seg', offset: 237, content: '', id: KR2p0041_tls_001-8a.2}
+  - {type: punctuation, offset: 237, content: 「, id: KR2p0041_tls_001-bkkpn82}
+  - {type: punctuation, offset: 241, content: 」, id: KR2p0041_tls_001-bkkpn83}
+  - {type: 'tls:seg', offset: 241, content: '', id: KR2p0041_tls_001-8a.3}
+  - {type: punctuation, offset: 244, content: ':', id: KR2p0041_tls_001-bkkpn84}
+  - {type: 'tls:seg', offset: 244, content: '', id: KR2p0041_tls_001-8a.4}
+  - {type: punctuation, offset: 244, content: 「, id: KR2p0041_tls_001-bkkpn85}
+  - {type: punctuation, offset: 246, content: ',', id: KR2p0041_tls_001-bkkpn86}
+  - {type: punctuation, offset: 248, content: '!', id: KR2p0041_tls_001-bkkpn87}
+  - {type: 'tls:seg', offset: 248, content: '', id: KR2p0041_tls_001-8a.5}
+  - {type: punctuation, offset: 252, content: ',', id: KR2p0041_tls_001-bkkpn88}
+  - {type: 'tls:seg', offset: 252, content: '', id: KR2p0041_tls_001-8a.6}
+  - {type: punctuation, offset: 253, content: '[', id: KR2p0041_tls_001-bkkpn89}
+  - {type: punctuation, offset: 253, content: ']', id: KR2p0041_tls_001-bkkpn90}
+  - {type: 'tls:seg', offset: 257, content: '', id: KR2p0041_tls_001-8a.7}
+  - {type: punctuation, offset: 268, content: ',', id: KR2p0041_tls_001-bkkpn91}
+  - {type: 'tls:seg', offset: 268, content: '', id: KR2p0041_tls_001-8a.8}
+  - {type: punctuation, offset: 270, content: '[', id: KR2p0041_tls_001-bkkpn92}
+  - {type: punctuation, offset: 270, content: ']', id: KR2p0041_tls_001-bkkpn93}
+  - {type: xml-element, offset: 270, content: '', id: KR2p0041_tls_001-bkkxmlele16, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.8 (STRIPS 27, 15, 18) JI XUSHENG 3: 178'}}
+  - {type: xml-element, offset: 270, content: '', id: KR2p0041_tls_001-bkkxmlele17, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.9 (STRIPS 6, 23B, 23A) JI XUSHENG 3: 178'}}
+  - {type: page-break, offset: 270, content: '', id: KR2p0041_tls_001-9a}
+  - {type: 'tls:seg', offset: 270, content: '', id: KR2p0041_tls_001-9a.1}
+  - {type: punctuation, offset: 270, content: 「, id: KR2p0041_tls_001-bkkpn94}
+  - {type: punctuation, offset: 271, content: ',', id: KR2p0041_tls_001-bkkpn95}
+  - {type: punctuation, offset: 274, content: (, id: KR2p0041_tls_001-bkkpn96}
+  - {type: punctuation, offset: 274, content: '=', id: KR2p0041_tls_001-bkkpn97}
+  - {type: punctuation, offset: 275, content: ), id: KR2p0041_tls_001-bkkpn98}
+  - {type: punctuation, offset: 275, content: 」, id: KR2p0041_tls_001-bkkpn99}
+  - {type: 'tls:seg', offset: 275, content: '', id: KR2p0041_tls_001-9a.2}
+  - {type: punctuation, offset: 279, content: ':', id: KR2p0041_tls_001-bkkpn100}
+  - {type: 'tls:seg', offset: 279, content: '', id: KR2p0041_tls_001-9a.3}
+  - {type: punctuation, offset: 279, content: 「, id: KR2p0041_tls_001-bkkpn101}
+  - {type: punctuation, offset: 284, content: 」, id: KR2p0041_tls_001-bkkpn102}
+  - {type: 'tls:seg', offset: 284, content: '', id: KR2p0041_tls_001-9a.4}
+  - {type: punctuation, offset: 287, content: ':', id: KR2p0041_tls_001-bkkpn103}
+  - {type: 'tls:seg', offset: 287, content: '', id: KR2p0041_tls_001-9a.5}
+  - {type: punctuation, offset: 287, content: 「, id: KR2p0041_tls_001-bkkpn104}
+  - {type: punctuation, offset: 289, content: ',', id: KR2p0041_tls_001-bkkpn105}
+  - {type: punctuation, offset: 294, content: ',', id: KR2p0041_tls_001-bkkpn106}
+  - {type: 'tls:seg', offset: 294, content: '', id: KR2p0041_tls_001-9a.6}
+  - {type: punctuation, offset: 299, content: ',', id: KR2p0041_tls_001-bkkpn107}
+  - {type: 'tls:seg', offset: 299, content: '', id: KR2p0041_tls_001-9a.7}
+  - {type: punctuation, offset: 304, content: ;, id: KR2p0041_tls_001-bkkpn108}
+  - {type: 'tls:seg', offset: 304, content: '', id: KR2p0041_tls_001-9a.8}
+  - {type: punctuation, offset: 311, content: ',', id: KR2p0041_tls_001-bkkpn109}
+  - {type: 'tls:seg', offset: 311, content: '', id: KR2p0041_tls_001-9a.9}
+  - {type: punctuation, offset: 316, content: ',', id: KR2p0041_tls_001-bkkpn110}
+  - {type: 'tls:seg', offset: 316, content: '', id: KR2p0041_tls_001-9a.10}
+  - {type: punctuation, offset: 321, content: ;, id: KR2p0041_tls_001-bkkpn111}
+  - {type: 'tls:seg', offset: 321, content: '', id: KR2p0041_tls_001-9a.11}
+  - {type: punctuation, offset: 323, content: ',', id: KR2p0041_tls_001-bkkpn112}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR2p0041_tls_001-9a.12}
+  - {type: 'tls:seg', offset: 326, content: '', id: KR2p0041_tls_001-9a.13}
+  - {type: punctuation, offset: 326, content: '[', id: KR2p0041_tls_001-bkkpn113}
+  - {type: punctuation, offset: 326, content: ']', id: KR2p0041_tls_001-bkkpn114}
+  - {type: punctuation, offset: 330, content: ',', id: KR2p0041_tls_001-bkkpn115}
+  - {type: 'tls:seg', offset: 330, content: '', id: KR2p0041_tls_001-9a.14}
+  - {type: punctuation, offset: 334, content: 」, id: KR2p0041_tls_001-bkkpn116}
+  - {type: xml-element, offset: 334, content: '', id: KR2p0041_tls_001-bkkxmlele18, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.9 (STRIPS 6, 23B, 23A) JI XUSHENG 3: 178'}}
+  - {type: xml-element, offset: 334, content: '', id: KR2p0041_tls_001-bkkxmlele19, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.10 (STRIPS 11, 13)JI XUSHENG 3: 178'}}
+  - {type: page-break, offset: 334, content: '', id: KR2p0041_tls_001-10a}
+  - {type: 'tls:seg', offset: 334, content: '', id: KR2p0041_tls_001-10a.1}
+  - {type: punctuation, offset: 337, content: ':', id: KR2p0041_tls_001-bkkpn117}
+  - {type: 'tls:seg', offset: 337, content: '', id: KR2p0041_tls_001-10a.2}
+  - {type: punctuation, offset: 337, content: 「, id: KR2p0041_tls_001-bkkpn118}
+  - {type: punctuation, offset: 341, content: ',', id: KR2p0041_tls_001-bkkpn119}
+  - {type: 'tls:seg', offset: 341, content: '', id: KR2p0041_tls_001-10a.3}
+  - {type: punctuation, offset: 344, content: ',', id: KR2p0041_tls_001-bkkpn120}
+  - {type: 'tls:seg', offset: 344, content: '', id: KR2p0041_tls_001-10a.4}
+  - {type: punctuation, offset: 352, content: '?', id: KR2p0041_tls_001-bkkpn121}
+  - {type: punctuation, offset: 352, content: 」, id: KR2p0041_tls_001-bkkpn122}
+  - {type: 'tls:seg', offset: 352, content: '', id: KR2p0041_tls_001-10a.5}
+  - {type: punctuation, offset: 355, content: ':', id: KR2p0041_tls_001-bkkpn123}
+  - {type: 'tls:seg', offset: 355, content: '', id: KR2p0041_tls_001-10a.6}
+  - {type: punctuation, offset: 355, content: 「, id: KR2p0041_tls_001-bkkpn124}
+  - {type: punctuation, offset: 359, content: ',', id: KR2p0041_tls_001-bkkpn125}
+  - {type: 'tls:seg', offset: 359, content: '', id: KR2p0041_tls_001-10a.7}
+  - {type: 'tls:seg', offset: 365, content: '', id: KR2p0041_tls_001-10a.8}
+  - {type: punctuation, offset: 369, content: ',', id: KR2p0041_tls_001-bkkpn126}
+  - {type: punctuation, offset: 370, content: '[', id: KR2p0041_tls_001-bkkpn127}
+  - {type: punctuation, offset: 370, content: ']', id: KR2p0041_tls_001-bkkpn128}
+  - {type: xml-element, offset: 370, content: '', id: KR2p0041_tls_001-bkkxmlele20, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.10 (STRIPS 11, 13)JI XUSHENG 3: 178'}}
+  - {type: xml-element, offset: 370, content: '', id: KR2p0041_tls_001-bkkxmlele21, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.11 (STRIPS 12, 22) JI XUSHENG 3: 178-179'}}
+  - {type: page-break, offset: 370, content: '', id: KR2p0041_tls_001-11a}
+  - {type: 'tls:seg', offset: 370, content: '', id: KR2p0041_tls_001-11a.1}
+  - {type: punctuation, offset: 370, content: '[', id: KR2p0041_tls_001-bkkpn129}
+  - {type: punctuation, offset: 370, content: ']', id: KR2p0041_tls_001-bkkpn130}
+  - {type: punctuation, offset: 372, content: ',', id: KR2p0041_tls_001-bkkpn131}
+  - {type: 'tls:seg', offset: 372, content: '', id: KR2p0041_tls_001-11a.2}
+  - {type: 'tls:seg', offset: 376, content: '', id: KR2p0041_tls_001-11a.3}
+  - {type: punctuation, offset: 380, content: ',', id: KR2p0041_tls_001-bkkpn132}
+  - {type: 'tls:seg', offset: 380, content: '', id: KR2p0041_tls_001-11a.4}
+  - {type: punctuation, offset: 384, content: 」, id: KR2p0041_tls_001-bkkpn133}
+  - {type: 'tls:seg', offset: 384, content: '', id: KR2p0041_tls_001-11a.5}
+  - {type: punctuation, offset: 387, content: ':', id: KR2p0041_tls_001-bkkpn134}
+  - {type: 'tls:seg', offset: 387, content: '', id: KR2p0041_tls_001-11a.6}
+  - {type: punctuation, offset: 387, content: 「, id: KR2p0041_tls_001-bkkpn135}
+  - {type: punctuation, offset: 388, content: ',', id: KR2p0041_tls_001-bkkpn136}
+  - {type: punctuation, offset: 393, content: ',', id: KR2p0041_tls_001-bkkpn137}
+  - {type: 'tls:seg', offset: 393, content: '', id: KR2p0041_tls_001-11a.7}
+  - {type: punctuation, offset: 397, content: ',', id: KR2p0041_tls_001-bkkpn138}
+  - {type: 'tls:seg', offset: 397, content: '', id: KR2p0041_tls_001-11a.8}
+  - {type: punctuation, offset: 401, content: ',', id: KR2p0041_tls_001-bkkpn139}
+  - {type: 'tls:seg', offset: 401, content: '', id: KR2p0041_tls_001-11a.9}
+  - {type: punctuation, offset: 404, content: '[', id: KR2p0041_tls_001-bkkpn140}
+  - {type: punctuation, offset: 404, content: ']', id: KR2p0041_tls_001-bkkpn141}
+  - {type: xml-element, offset: 404, content: '', id: KR2p0041_tls_001-bkkxmlele22, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.11 (STRIPS 12, 22) JI XUSHENG 3: 178-179'}}
+  - {type: xml-element, offset: 404, content: '', id: KR2p0041_tls_001-bkkxmlele23, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.12 (STRIPS 22, 24, 25) JI XUSHENG 3: 179'}}
+  - {type: page-break, offset: 404, content: '', id: KR2p0041_tls_001-12a}
+  - {type: 'tls:seg', offset: 404, content: '', id: KR2p0041_tls_001-12a.1}
+  - {type: punctuation, offset: 404, content: '[', id: KR2p0041_tls_001-bkkpn142}
+  - {type: punctuation, offset: 404, content: ']', id: KR2p0041_tls_001-bkkpn143}
+  - {type: punctuation, offset: 410, content: ',', id: KR2p0041_tls_001-bkkpn144}
+  - {type: 'tls:seg', offset: 410, content: '', id: KR2p0041_tls_001-12a.2}
+  - {type: punctuation, offset: 415, content: ',', id: KR2p0041_tls_001-bkkpn145}
+  - {type: 'tls:seg', offset: 415, content: '', id: KR2p0041_tls_001-12a.3}
+  - {type: punctuation, offset: 416, content: '[', id: KR2p0041_tls_001-bkkpn146}
+  - {type: punctuation, offset: 416, content: ']', id: KR2p0041_tls_001-bkkpn147}
+  - {type: punctuation, offset: 418, content: '[', id: KR2p0041_tls_001-bkkpn148}
+  - {type: punctuation, offset: 418, content: ']', id: KR2p0041_tls_001-bkkpn149}
+  - {type: 'tls:seg', offset: 418, content: '', id: KR2p0041_tls_001-12a.4}
+  - {type: punctuation, offset: 418, content: '[', id: KR2p0041_tls_001-bkkpn150}
+  - {type: punctuation, offset: 418, content: ']', id: KR2p0041_tls_001-bkkpn151}
+  - {type: 'tls:seg', offset: 419, content: '', id: KR2p0041_tls_001-12a.5}
+  - {type: punctuation, offset: 424, content: ',', id: KR2p0041_tls_001-bkkpn152}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR2p0041_tls_001-12a.6}
+  - {type: punctuation, offset: 428, content: ;, id: KR2p0041_tls_001-bkkpn153}
+  - {type: 'tls:seg', offset: 428, content: '', id: KR2p0041_tls_001-12a.7}
+  - {type: punctuation, offset: 434, content: ',', id: KR2p0041_tls_001-bkkpn154}
+  - {type: 'tls:seg', offset: 434, content: '', id: KR2p0041_tls_001-12a.8}
+  - {type: punctuation, offset: 438, content: ',', id: KR2p0041_tls_001-bkkpn155}
+  - {type: 'tls:seg', offset: 438, content: '', id: KR2p0041_tls_001-12a.9}
+  - {type: punctuation, offset: 442, content: '?', id: KR2p0041_tls_001-bkkpn156}
+  - {type: punctuation, offset: 442, content: 」, id: KR2p0041_tls_001-bkkpn157}
+  - {type: xml-element, offset: 442, content: '', id: KR2p0041_tls_001-bkkxmlele24, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.12 (STRIPS 22, 24, 25) JI XUSHENG 3: 179'}}
+  - {type: xml-element, offset: 442, content: '', id: KR2p0041_tls_001-bkkxmlele25, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.13 (STRIPS 25, 20) JI XUSHENG 3: 179'}}
+  - {type: page-break, offset: 442, content: '', id: KR2p0041_tls_001-13a}
+  - {type: 'tls:seg', offset: 442, content: '', id: KR2p0041_tls_001-13a.1}
+  - {type: punctuation, offset: 445, content: ':', id: KR2p0041_tls_001-bkkpn158}
+  - {type: 'tls:seg', offset: 445, content: '', id: KR2p0041_tls_001-13a.2}
+  - {type: punctuation, offset: 445, content: 「, id: KR2p0041_tls_001-bkkpn159}
+  - {type: punctuation, offset: 451, content: ',', id: KR2p0041_tls_001-bkkpn160}
+  - {type: 'tls:seg', offset: 451, content: '', id: KR2p0041_tls_001-13a.3}
+  - {type: punctuation, offset: 455, content: '[', id: KR2p0041_tls_001-bkkpn161}
+  - {type: punctuation, offset: 455, content: ']', id: KR2p0041_tls_001-bkkpn162}
+  - {type: 'tls:seg', offset: 455, content: '', id: KR2p0041_tls_001-13a.4}
+  - {type: punctuation, offset: 455, content: '[', id: KR2p0041_tls_001-bkkpn163}
+  - {type: punctuation, offset: 455, content: ']', id: KR2p0041_tls_001-bkkpn164}
+  - {type: punctuation, offset: 457, content: 」, id: KR2p0041_tls_001-bkkpn165}
+  - {type: punctuation, offset: 457, content: '[', id: KR2p0041_tls_001-bkkpn166}
+  - {type: punctuation, offset: 457, content: ']', id: KR2p0041_tls_001-bkkpn167}
+  - {type: 'tls:seg', offset: 457, content: '', id: KR2p0041_tls_001-13a.5}
+  - {type: punctuation, offset: 460, content: ':', id: KR2p0041_tls_001-bkkpn168}
+  - {type: 'tls:seg', offset: 460, content: '', id: KR2p0041_tls_001-13a.6}
+  - {type: punctuation, offset: 460, content: 「, id: KR2p0041_tls_001-bkkpn169}
+  - {type: punctuation, offset: 464, content: ',', id: KR2p0041_tls_001-bkkpn170}
+  - {type: 'tls:seg', offset: 464, content: '', id: KR2p0041_tls_001-13a.7}
+  - {type: punctuation, offset: 468, content: ',', id: KR2p0041_tls_001-bkkpn171}
+  - {type: 'tls:seg', offset: 468, content: '', id: KR2p0041_tls_001-13a.8}
+  - {type: punctuation, offset: 472, content: 」, id: KR2p0041_tls_001-bkkpn172}
+  - {type: xml-element, offset: 472, content: '', id: KR2p0041_tls_001-bkkxmlele26, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.13 (STRIPS 25, 20) JI XUSHENG 3: 179'}}
+  - {type: xml-element, offset: 472, content: '', id: KR2p0041_tls_001-bkkxmlele27, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.14 (STRIPS 20, 16A) JI XUSHENG 3: 179'}}
+  - {type: page-break, offset: 472, content: '', id: KR2p0041_tls_001-14a}
+  - {type: 'tls:seg', offset: 472, content: '', id: KR2p0041_tls_001-14a.1}
+  - {type: punctuation, offset: 475, content: ':', id: KR2p0041_tls_001-bkkpn173}
+  - {type: 'tls:seg', offset: 475, content: '', id: KR2p0041_tls_001-14a.2}
+  - {type: punctuation, offset: 475, content: 「, id: KR2p0041_tls_001-bkkpn174}
+  - {type: punctuation, offset: 478, content: '[', id: KR2p0041_tls_001-bkkpn175}
+  - {type: punctuation, offset: 478, content: ']', id: KR2p0041_tls_001-bkkpn176}
+  - {type: 'tls:seg', offset: 478, content: '', id: KR2p0041_tls_001-14a.3}
+  - {type: punctuation, offset: 478, content: '[', id: KR2p0041_tls_001-bkkpn177}
+  - {type: punctuation, offset: 478, content: ']', id: KR2p0041_tls_001-bkkpn178}
+  - {type: punctuation, offset: 480, content: (, id: KR2p0041_tls_001-bkkpn179}
+  - {type: punctuation, offset: 480, content: '?', id: KR2p0041_tls_001-bkkpn180}
+  - {type: punctuation, offset: 480, content: ), id: KR2p0041_tls_001-bkkpn181}
+  - {type: punctuation, offset: 483, content: ',', id: KR2p0041_tls_001-bkkpn182}
+  - {type: 'tls:seg', offset: 483, content: '', id: KR2p0041_tls_001-14a.4}
+  - {type: punctuation, offset: 487, content: ',', id: KR2p0041_tls_001-bkkpn183}
+  - {type: 'tls:seg', offset: 487, content: '', id: KR2p0041_tls_001-14a.5}
+  - {type: 'tls:seg', offset: 493, content: '', id: KR2p0041_tls_001-14a.6}
+  - {type: punctuation, offset: 499, content: ',', id: KR2p0041_tls_001-bkkpn184}
+  - {type: 'tls:seg', offset: 499, content: '', id: KR2p0041_tls_001-14a.7}
+  - {type: punctuation, offset: 502, content: ',', id: KR2p0041_tls_001-bkkpn185}
+  - {type: 'tls:seg', offset: 502, content: '', id: KR2p0041_tls_001-14a.8}
+  - {type: punctuation, offset: 506, content: ',', id: KR2p0041_tls_001-bkkpn186}
+  - {type: 'tls:seg', offset: 506, content: '', id: KR2p0041_tls_001-14a.9}
+  - {type: punctuation, offset: 510, content: (, id: KR2p0041_tls_001-bkkpn187}
+  - {type: punctuation, offset: 510, content: '?', id: KR2p0041_tls_001-bkkpn188}
+  - {type: punctuation, offset: 510, content: ), id: KR2p0041_tls_001-bkkpn189}
+  - {type: punctuation, offset: 511, content: 」, id: KR2p0041_tls_001-bkkpn190}
+  - {type: xml-element, offset: 511, content: '', id: KR2p0041_tls_001-bkkxmlele28, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.14 (STRIPS 20, 16A) JI XUSHENG 3: 179'}}
+  back: []
+hash: sha256:80dffcfec359ca4ae343636926f4fac434e4bb5e783df640b759af4725caa579
