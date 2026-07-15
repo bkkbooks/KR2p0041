@@ -36,6 +36,7 @@ markers:
   - {type: 'tls:seg', offset: 50, content: '', id: KR2p0041_tls_001-2a.7}
   - {type: punctuation, offset: 55, content: ',', id: KR2p0041_tls_001-bkkpn15}
   - {type: 'tls:seg', offset: 55, content: '', id: KR2p0041_tls_001-2a.8}
+  - {type: substitution, offset: 55, original: 愿, replacement: 願, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17675}}
   - {type: punctuation, offset: 61, content: 」, id: KR2p0041_tls_001-bkkpn16}
   - {type: xml-element, offset: 61, content: '', id: KR2p0041_tls_001-bkkxmlele4, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.1 (STRIPS 1, 4, 26) JI XUSHENG 3: 176-177'}}
   - {type: xml-element, offset: 61, content: '', id: KR2p0041_tls_001-bkkxmlele5, name: p, role: open, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.2 (STRIPS 26-3) JI XUSHENG 3: 177'}}
@@ -359,4 +360,4 @@ markers:
   - {type: punctuation, offset: 511, content: 」, id: KR2p0041_tls_001-bkkpn190}
   - {type: xml-element, offset: 511, content: '', id: KR2p0041_tls_001-bkkxmlele28, name: p, role: close, attrs: {source: 'SHANGBO.ZHONGGONG 3.11.14 (STRIPS 20, 16A) JI XUSHENG 3: 179'}}
   back: []
-hash: sha256:8c1a008d29c32e88d2cf2f62cd107356d22062a389ea4693094fb07e73d2afab
+hash: sha256:0a11c8696aa9502b650888c750bdda17b2c83798e1e9523d303e935b4bfae366
